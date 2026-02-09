@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Roscetar23! 👋
 
-<!--
-**Roscetar23/Roscetar23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate developer committed to creating meaningful projects and contributing to the open-source community.
 
-Here are some ideas to get you started:
+## 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm enthusiastic about building innovative solutions and collaborating with talented developers. With a focus on clean code and best practices, I strive to make a positive impact through technology.
+
+## 💻 Tech Stack
+
+- **Languages:** JavaScript, Python, Java
+- **Frontend:** React, Vue.js, HTML/CSS
+- **Backend:** Node.js, Express, Django
+- **Databases:** PostgreSQL, MongoDB, Firebase
+- **Tools & Platforms:** Git, Docker, GitHub Actions
+
+## 📚 Featured Projects
+
+Here are some projects I'm proud of:
+
+- **[Project One](link-to-repo)** - Brief description of what this project does
+- **[Project Two](link-to-repo)** - Brief description of what this project does
+- **[Project Three](link-to-repo)** - Brief description of what this project does
+
+## 🌟 Highlights
+
+- 🎯 Strong problem-solving skills
+- 🤝 Collaborative team player
+- 📖 Continuous learner
+- 💡 Creative thinker
+
+## 📊 GitHub Stats
